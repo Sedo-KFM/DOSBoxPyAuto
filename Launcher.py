@@ -30,7 +30,7 @@ depended_commands = ['r', 'd']
 outro = []
 boot_conf = str(input(
     'Welcome, are you too lazy?\n' +
-    'You have chosen the right path!\n' +
+    'You have chosen the right way!\n' +
     'c - build to .com\n' +
     'x - build to .exe\n' +
     'r - run\n' +
